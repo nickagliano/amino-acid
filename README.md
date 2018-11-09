@@ -1,7 +1,10 @@
 # amino-acid
 
 
-Java x Maven project to extract features from Amino Acid sequences
+Java x Maven project to extract features from Amino Acid sequences.
 
-[biojava github](https://github.com/biojava)
-[biojava documentation](https://biojava.org/docs/api5.0.0/index.html)
+Extracted features are stored in a .csv file, and are meant to be used to form predictive models.
+
+The program uses biojava libraries for extraction of features from amino acid sequences.
+
+For information on biojava, visit their [GitHub](https://github.com/biojava), or [biojava.org](https://biojava.org/).
