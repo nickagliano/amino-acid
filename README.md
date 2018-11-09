@@ -24,3 +24,5 @@ For information on biojava, visit their [GitHub](https://github.com/biojava), or
 #### pom.xml
 - maven file
 - manages the build and build dependencies, the most important of those being the biojava dependencies
+#### testoutput.csv
+- the output .csv file from the current build of the program
