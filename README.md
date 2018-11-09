@@ -1,7 +1,7 @@
 # amino-acid
 
 
-Java x Maven project to extract features from Amino Acid sequences.
+Java x Maven project with the purpose of extracting features from Amino Acid sequences.
 
 Extracted features are stored in a .csv file, and are meant to be used to form predictive models.
 
