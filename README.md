@@ -16,6 +16,7 @@ For information on biojava, visit their [GitHub](https://github.com/biojava), or
 - Output: .csv file with extracted features
 #### sequences_training.csv 
  - The input dataset. First column is sequence of amino acids, second column is the class. 
+ - At the moment, the input dataset contains ambiguous sequences. This will be updated in the future.
  - The 4 classes
    - DNA: Proteins that interact with DNA
    - RNA: Proteins that interact with RNA 
