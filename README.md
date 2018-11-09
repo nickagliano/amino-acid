@@ -1,14 +1,11 @@
-# amino-acid
-
-
-Java x Maven project with the purpose of extracting features from Amino Acid sequences.
+# Overview
+A Java x Maven project with the purpose of extracting features from amino acid sequences.
 
 Extracted features are stored in a .csv file, and are meant to be used to form predictive models.
 
 The program uses biojava libraries for extraction of features from amino acid sequences.
 
 For information on biojava, visit their [GitHub](https://github.com/biojava), or [biojava.org](https://biojava.org/).
-
 
 ## File descriptions
 
@@ -24,3 +21,6 @@ For information on biojava, visit their [GitHub](https://github.com/biojava), or
    - RNA: Proteins that interact with RNA 
    - DRNA: Proteins that interact with DNA and RNA
    - nonDRNA: Proteins that do not interact with DNA or RNA
+#### pom.xml
+- maven file
+- manages the build and build dependencies, the most important of those being the biojava dependencies
