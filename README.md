@@ -13,7 +13,10 @@ For information on biojava, visit their [GitHub](https://github.com/biojava), or
 ## File descriptions
 
 #### src/ProteinParser.java
-- Java program
+- Program's main Java class
+- Uses biojava libraries to extract information from DNA sequences
+- Input: .csv file with raw amino acid sequences and class feature
+- Output: .csv file with extracted features
 #### sequences_training.csv 
  - The input dataset. First column is sequence of amino acids, second column is the class. 
  - The 4 classes
