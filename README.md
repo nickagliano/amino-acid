@@ -15,7 +15,7 @@ For information on biojava, visit their [GitHub](https://github.com/biojava), or
 - Input: .csv file with raw amino acid sequences and class feature
 - Output: .csv file with extracted features
 
-#### src/PDBReader.java
+#### src/FastaReader.java
 - A WORK IN PROGRESS
 - Code to get important structural information from PDB files
 
