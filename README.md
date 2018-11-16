@@ -14,6 +14,17 @@ For information on biojava, visit their [GitHub](https://github.com/biojava), or
 - Uses biojava libraries to extract information from DNA sequences
 - Input: .csv file with raw amino acid sequences and class feature
 - Output: .csv file with extracted features
+
+#### src/PDBReader.java
+- A WORK IN PROGRESS
+- Code to get important structural information from PDB files
+
+#### src/PostBLASTQuery.java
+- Sample post request from ncbi website
+
+#### src/PostXMLQuery.java
+- Sample post request from ncbi website
+
 #### sequences_training.csv 
  - The input dataset. First column is sequence of amino acids, second column is the class. 
  - At the moment, the input dataset contains ambiguous sequences. This will be updated in the future.
