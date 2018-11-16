@@ -1,0 +1,21 @@
+// takes input in the form of a .csv file (like sequences_training.csv), reads the first column (the amino acid sequence),
+// and puts the amino acid sequence into fasta format
+// 
+// ex.
+// Input: 
+// QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAEKMKILELPFASGDLSMLVLLPDEVSDLERIEKTINFEKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTSVLMALGMTDLFIPSANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESEQFRADHPFLFLIKHNPTNTIVYFGRYWSP
+// 
+//
+// Output:
+// >PROTEIN 1
+// QIKDLLVSSSTDLDTTLVLVNAIYFKGMWKTAFNAEDTREMPFHVTKQESKPVQMMCMNNSFNVATLPAE
+// KMKILELPFASGDLSMLVLLPDEVSDLERIEKTINFEKLTEWTNPNTMEKRRVKVYLPQMKIEEKYNLTS
+// VLMALGMTDLFIPSANLTGISSAESLKISQAVHGAFMELSEDGIEMAGSTGVIEDIKHSPESEQFRADHP
+// FLFLIKHNPTNTIVYFGRYWSP
+//
+// and do this for every sequence [1,n], where n is the number of sequences in the .csv file
+// 
+// 
+// once proteins are in fasta file format, they will be ready to be sent to NCBI servers to get features from
+// 
+//
