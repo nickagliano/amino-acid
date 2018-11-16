@@ -18,8 +18,6 @@ public class ProteinParser implements IPeptideProperties {
 
 	public static void main(String[] args) throws IOException {
 		
-		MultipleSequenceAlignment.main(args);
-		
         PrintWriter pw = new PrintWriter(new File("testoutput.csv"));
         StringBuilder sb = new StringBuilder();
         //the feature titles
