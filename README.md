@@ -25,6 +25,7 @@ For information on biojava, visit their [GitHub](https://github.com/biojava), or
 
 #### src/PostBLASTQuery.java
 - Sample post request from ncbi website
+- goal is to post blast query request -> get multiple sequence alignments -> get residue conservation score from the MSA
 
 #### src/PostXMLQuery.java
 - Sample post request from ncbi website
