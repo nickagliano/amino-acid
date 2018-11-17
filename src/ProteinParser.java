@@ -13,10 +13,11 @@ import org.biojava.nbio.aaproperties.*;
 import org.biojava.nbio.aaproperties.xml.AminoAcidCompositionTable;
 import org.biojava.nbio.core.sequence.ProteinSequence;
 import org.biojava.nbio.core.sequence.compound.AminoAcidCompound;
+import org.biojava.nbio.structure.StructureException;
 
 public class ProteinParser implements IPeptideProperties {
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws Exception {
 		
         PrintWriter pw = new PrintWriter(new File("testoutput.csv"));
         StringBuilder sb = new StringBuilder();
@@ -41,6 +42,18 @@ public class ProteinParser implements IPeptideProperties {
         
         br = new BufferedReader(new FileReader("sequences_training.csv"));
        
+        String[] parsedLine = line.split(cvsSplitBy);
+        String sequence = parsedLine[0];
+        
+        sequence = "MAGGKAGKDSGKAKAKAVSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKTA";
+        //blast query
+        PostBLASTQuery.doMagic(sequence); //submit blast query for a specific sequence in the sequences_training.csv file
+       
+        String[] idArr = BlastResultReader.getIds(10); //reads first 10 results from blast (the 10 most similar proteins)
+        
+        GetCustomReport.doMagic(idArr); //overwrites the previous blastresult.html file with csv of most similar proteins
+        
+        /*
         while ((line = br.readLine()) != null) {
             String[] parsedLine = line.split(cvsSplitBy);
             String sequence = parsedLine[0];
@@ -55,9 +68,11 @@ public class ProteinParser implements IPeptideProperties {
             sb.append(',');
             sb.append(PeptideProperties.getApliphaticIndex(sequence));
             sb.append(',');
+            
            
             sb.append('\n');
         }
+        */
         
         br.close();
         

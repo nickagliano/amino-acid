@@ -1,0 +1,3876 @@
+<HTML>
+<TITLE>BLAST Search Results</TITLE>
+<BODY BGCOLOR="#FFFFFF" LINK="#0000FF" VLINK="#660099" ALINK="#660099">
+<PRE>
+<b>BLASTP 2.2.18 [Mar-02-2008]</b>
+
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=9254694&dopt=Citation">Reference</a>:</b>
+Altschul, Stephen F., Thomas L. Madden, Alejandro A. Sch&auml;ffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+<b><a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids
+=11452024&dopt=Citation">Reference for composition-based statistics</a>:</b>
+Sch&auml;ffer, Alejandro A., L. Aravind, Thomas L. Madden, 
+Schaffer, Alejandro A., L. Aravind, Thomas L. Madden,
+Sergei Shavirin, John L. Spouge, Yuri I. Wolf,  
+Eugene V. Koonin, and Stephen F. Altschul (2001), 
+"Improving the accuracy of PSI-BLAST protein database searches with 
+composition-based statistics and other refinements",  Nucleic Acids Res. 29:2994-3005.
+
+<b>Query=</b> UNKNOWN_SEQUENCE
+         (128 letters)
+
+<b>Database:</b> pdb_polypeptide 
+           227,558 sequences; 56,825,294 total letters
+
+Searching..................................................done
+
+<PRE>
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+4CAY:1:A|pdbid|entity|chain(s)|sequence                               <a href = #113022>186</a>   1e-47
+5FUG:1:A,D,G,J|pdbid|entity|chain(s)|sequence                         <a href = #172812>185</a>   2e-47
+3WAA:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #106903>184</a>   3e-47
+1F66:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #7080>184</a>   5e-47
+5B33:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163867>183</a>   8e-47
+5B32:5:G|pdbid|entity|chain(s)|sequence                               <a href = #163865>183</a>   8e-47
+5B31:5:G|pdbid|entity|chain(s)|sequence                               <a href = #163860>183</a>   8e-47
+3WA9:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #106900>183</a>   8e-47
+5Z30:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #211790>182</a>   1e-46
+4NFT:1:A,B,C,D|pdbid|entity|chain(s)|sequence                         <a href = #131490>171</a>   4e-43
+5CHL:2:B|pdbid|entity|chain(s)|sequence                               <a href = #165762>166</a>   2e-41
+4M6B:1:A,D|pdbid|entity|chain(s)|sequence                             <a href = #129561>135</a>   2e-32
+2JSS:1:A|pdbid|entity|chain(s)|sequence                               <a href = #51595>135</a>   3e-32
+4QLC:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #136470>115</a>   2e-26
+2NQB:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #56096>115</a>   2e-26
+2PYO:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #59378>114</a>   4e-26
+4Z66:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #160081>114</a>   7e-26
+4YS3:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #159327>114</a>   7e-26
+4XZQ:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #157288>114</a>   7e-26
+3KWQ:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #89562>114</a>   7e-26
+3X1U:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #108039>113</a>   1e-25
+3X1T:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #108032>113</a>   1e-25
+5WCU:3:C,G,M,Q|pdbid|entity|chain(s)|sequence                         <a href = #206242>113</a>   1e-25
+4X23:5:C,G,M,Q|pdbid|entity|chain(s)|sequence                         <a href = #155660>113</a>   1e-25
+5MLU:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #189803>112</a>   1e-25
+5G2E:2:C,G,K,O,S,W|pdbid|entity|chain(s)|sequence                     <a href = #173223>112</a>   2e-25
+2ARO:1:A,E|pdbid|entity|chain(s)|sequence                             <a href = #39203>112</a>   3e-25
+1TZY:1:A,E|pdbid|entity|chain(s)|sequence                             <a href = #29175>112</a>   3e-25
+1HQ3:1:A,E|pdbid|entity|chain(s)|sequence                             <a href = #10863>112</a>   3e-25
+1EQZ:2:A,E|pdbid|entity|chain(s)|sequence                             <a href = #6518>112</a>   3e-25
+5KGF:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #183001>111</a>   3e-25
+6GEN:4:E,F|pdbid|entity|chain(s)|sequence                             <a href = #224419>111</a>   3e-25
+6GEJ:4:E,F|pdbid|entity|chain(s)|sequence                             <a href = #224416>111</a>   3e-25
+4WNN:1:A,C,E,G|pdbid|entity|chain(s)|sequence                         <a href = #154108>111</a>   3e-25
+3C9K:1:A,E|pdbid|entity|chain(s)|sequence                             <a href = #73742>111</a>   3e-25
+2HIO:1:A|pdbid|entity|chain(s)|sequence                               <a href = #48506>111</a>   3e-25
+1AOI:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #1080>111</a>   4e-25
+5BT1:2:C|pdbid|entity|chain(s)|sequence                               <a href = #164519>111</a>   4e-25
+1ID3:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #11916>111</a>   4e-25
+3W96:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #106843>111</a>   4e-25
+6FQ8:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #222576>111</a>   4e-25
+6FQ6:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #222572>111</a>   4e-25
+6FQ5:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #222565>111</a>   4e-25
+5GT3:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #174474>111</a>   5e-25
+3MNN:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #92323>110</a>   6e-25
+3MGS:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #92007>110</a>   6e-25
+3MGR:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #92005>110</a>   6e-25
+3MGQ:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #91999>110</a>   6e-25
+3MGP:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #91996>110</a>   6e-25
+3LZ1:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #91179>110</a>   6e-25
+3LZ0:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #91172>110</a>   6e-25
+3KUY:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #89494>110</a>   6e-25
+2NZD:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #56538>110</a>   6e-25
+1S32:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #26308>110</a>   6e-25
+2F8N:7:K|pdbid|entity|chain(s)|sequence                               <a href = #45394>110</a>   6e-25
+2RVQ:1:C|pdbid|entity|chain(s)|sequence                               <a href = #62099>110</a>   6e-25
+6HTS:7:K,O|pdbid|entity|chain(s)|sequence                             <a href = #226942>110</a>   8e-25
+6BUZ:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #215888>110</a>   8e-25
+5XF5:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #208862>110</a>   8e-25
+5XF4:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #208858>110</a>   8e-25
+5XF3:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #208854>110</a>   8e-25
+2CV5:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #42208>110</a>   8e-25
+1HIO:1:A|pdbid|entity|chain(s)|sequence                               <a href = #10564>110</a>   8e-25
+6C0W:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #216340>110</a>   9e-25
+5GT0:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #174468>110</a>   9e-25
+5GSU:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #174454>110</a>   9e-25
+4KUD:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #126942>110</a>   9e-25
+3X1V:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #108042>110</a>   9e-25
+3X1S:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #108028>110</a>   9e-25
+4JJN:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #124921>110</a>   9e-25
+6FML:11:O,S|pdbid|entity|chain(s)|sequence                            <a href = #222404>110</a>   1e-24
+5ONW:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #195194>110</a>   1e-24
+5OMX:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #195065>110</a>   1e-24
+6HKT:3:0,2,C,G,M,Q,W,c,g,m,q,w|pdbid|entity|chain(s)|sequence         <a href = #226855>110</a>   1e-24
+6A5V:18:c,g|pdbid|entity|chain(s)|sequence                            <a href = #213101>110</a>   1e-24
+6A5U:18:c,g|pdbid|entity|chain(s)|sequence                            <a href = #213081>110</a>   1e-24
+6A5T:18:c,g|pdbid|entity|chain(s)|sequence                            <a href = #213060>110</a>   1e-24
+6A5R:18:c,g|pdbid|entity|chain(s)|sequence                            <a href = #213046>110</a>   1e-24
+6A5P:18:c,g|pdbid|entity|chain(s)|sequence                            <a href = #213042>110</a>   1e-24
+6A5O:18:c,g|pdbid|entity|chain(s)|sequence                            <a href = #213023>110</a>   1e-24
+6A5L:18:c,g|pdbid|entity|chain(s)|sequence                            <a href = #212995>110</a>   1e-24
+5Y0D:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #210345>110</a>   1e-24
+5Y0C:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #210341>110</a>   1e-24
+5XM1:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #209256>110</a>   1e-24
+5XM0:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #209253>110</a>   1e-24
+5X7X:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #208427>110</a>   1e-24
+5JRG:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #181272>110</a>   1e-24
+5GXQ:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #174763>110</a>   1e-24
+5GTC:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #174485>110</a>   1e-24
+5GSE:3:C,G,M|pdbid|entity|chain(s)|sequence                           <a href = #174437>110</a>   1e-24
+5CPK:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #166108>110</a>   1e-24
+5CPJ:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #166106>110</a>   1e-24
+5CPI:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #166102>110</a>   1e-24
+5B40:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163922>110</a>   1e-24
+5B32:3:C|pdbid|entity|chain(s)|sequence                               <a href = #163861>110</a>   1e-24
+5B31:3:C|pdbid|entity|chain(s)|sequence                               <a href = #163856>110</a>   1e-24
+5B2J:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163835>110</a>   1e-24
+5B2I:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163831>110</a>   1e-24
+5B24:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163815>110</a>   1e-24
+5B1M:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163799>110</a>   1e-24
+5B1L:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163793>110</a>   1e-24
+5B0Z:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163743>110</a>   1e-24
+5B0Y:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163741>110</a>   1e-24
+5AY8:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163623>110</a>   1e-24
+5AVC:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163473>110</a>   1e-24
+5AVB:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163471>110</a>   1e-24
+5AV9:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163466>110</a>   1e-24
+5AV8:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163462>110</a>   1e-24
+5AV6:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163456>110</a>   1e-24
+5AV5:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #163453>110</a>   1e-24
+4Z5T:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #160060>110</a>   1e-24
+4YM6:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #159032>110</a>   1e-24
+4YM5:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #159026>110</a>   1e-24
+3WTP:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #107671>110</a>   1e-24
+3WKJ:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #107316>110</a>   1e-24
+3W99:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #106854>110</a>   1e-24
+3W98:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #106850>110</a>   1e-24
+3W97:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #106848>110</a>   1e-24
+3AZN:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71856>110</a>   1e-24
+3AZM:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71851>110</a>   1e-24
+3AZL:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71847>110</a>   1e-24
+3AZK:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71843>110</a>   1e-24
+3AZJ:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71838>110</a>   1e-24
+3AZI:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71836>110</a>   1e-24
+3AZH:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71829>110</a>   1e-24
+3AZG:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71825>110</a>   1e-24
+3AZF:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71824>110</a>   1e-24
+3AZE:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71819>110</a>   1e-24
+3AYW:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71799>110</a>   1e-24
+3AV2:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71637>110</a>   1e-24
+3AV1:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71632>110</a>   1e-24
+3AN2:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #71316>110</a>   1e-24
+3AFA:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #70996>110</a>   1e-24
+3A6N:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #70559>110</a>   1e-24
+5X0X:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #208063>110</a>   1e-24
+5OY7:4:C,G,K,O,S,W,a,e|pdbid|entity|chain(s)|sequence                 <a href = #195953>110</a>   1e-24
+5OXV:3:C,G,M,Q|pdbid|entity|chain(s)|sequence                         <a href = #195919>110</a>   1e-24
+5O9G:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #194269>110</a>   1e-24
+5E5A:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #169230>110</a>   1e-24
+4ZUX:3:C,G,M,Q|pdbid|entity|chain(s)|sequence                         <a href = #161293>110</a>   1e-24
+4LD9:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #127922>110</a>   1e-24
+4KGC:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #126348>110</a>   1e-24
+3C1C:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #73411>110</a>   1e-24
+3C1B:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #73405>110</a>   1e-24
+6G0L:5:G|pdbid|entity|chain(s)|sequence                               <a href = #223376>109</a>   1e-24
+6FTX:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #222969>109</a>   1e-24
+6ESI:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #220896>109</a>   1e-24
+6ESH:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #220892>109</a>   1e-24
+6ESG:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #220889>109</a>   1e-24
+6ESF:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #220886>109</a>   1e-24
+5X0Y:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #208070>109</a>   1e-24
+5ONG:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #195170>109</a>   1e-24
+5NL0:3:C,G,M|pdbid|entity|chain(s)|sequence                           <a href = #192701>109</a>   1e-24
+5HQ2:3:G|pdbid|entity|chain(s)|sequence                               <a href = #176367>109</a>   1e-24
+5F99:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #171318>109</a>   1e-24
+4WU9:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #155109>109</a>   1e-24
+4WU8:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #155105>109</a>   1e-24
+4R8P:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #138165>109</a>   1e-24
+3UTB:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #104765>109</a>   1e-24
+3UTA:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #104762>109</a>   1e-24
+3UT9:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #104758>109</a>   1e-24
+3TU4:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #103257>109</a>   1e-24
+3REL:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #99440>109</a>   1e-24
+3REK:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #99435>109</a>   1e-24
+3REJ:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #99431>109</a>   1e-24
+3REI:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #99427>109</a>   1e-24
+3REH:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #99424>109</a>   1e-24
+3MVD:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #92664>109</a>   1e-24
+3LJA:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #90536>109</a>   1e-24
+3KXB:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #89592>109</a>   1e-24
+2FJ7:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #45818>109</a>   1e-24
+1ZBB:5:C,G,c,g|pdbid|entity|chain(s)|sequence                         <a href = #37220>109</a>   1e-24
+1P3P:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #21991>109</a>   1e-24
+1P3O:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #21988>109</a>   1e-24
+1P3M:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #21984>109</a>   1e-24
+1P3L:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #21977>109</a>   1e-24
+1P3K:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #21974>109</a>   1e-24
+1P3I:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #21970>109</a>   1e-24
+1P3G:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #21965>109</a>   1e-24
+1P3F:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #21960>109</a>   1e-24
+1P3B:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #21955>109</a>   1e-24
+1P3A:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #21948>109</a>   1e-24
+1P34:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #21941>109</a>   1e-24
+1M1A:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #17243>109</a>   1e-24
+1M19:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #17236>109</a>   1e-24
+1M18:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #17234>109</a>   1e-24
+1ZLA:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #37561>109</a>   2e-24
+5XF6:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #208865>108</a>   2e-24
+5DNN:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #168395>108</a>   2e-24
+5DNM:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #168389>108</a>   2e-24
+5CP6:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #166083>108</a>   2e-24
+4XUJ:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #157088>108</a>   2e-24
+4J8X:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #124276>108</a>   2e-24
+4J8W:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #124272>108</a>   2e-24
+4J8V:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #124268>108</a>   2e-24
+4J8U:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #124264>108</a>   2e-24
+3O62:3:C,G|pdbid|entity|chain(s)|sequence                             <a href = #94555>108</a>   2e-24
+3LEL:3:C,G,M,Q|pdbid|entity|chain(s)|sequence                         <a href = #90352>108</a>   2e-24
+3B6G:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #72098>108</a>   2e-24
+3B6F:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #72096>108</a>   2e-24
+1KX5:5:C,G|pdbid|entity|chain(s)|sequence                             <a href = #15771>108</a>   2e-24
+1KX4:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #15767>108</a>   2e-24
+1KX3:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #15763>108</a>   2e-24
+6G0L:3:C|pdbid|entity|chain(s)|sequence                               <a href = #223378>106</a>   1e-23
+5VEY:1:A|pdbid|entity|chain(s)|sequence                               <a href = #203852>103</a>   1e-22
+2XQL:1:A,C,E,G,I|pdbid|entity|chain(s)|sequence                       <a href = #66936>103</a>   1e-22
+2F8N:6:G|pdbid|entity|chain(s)|sequence                               <a href = #45395>101</a>   4e-22
+1U35:4:C,G|pdbid|entity|chain(s)|sequence                             <a href = #29307>101</a>   4e-22
+4KHA:2:B|pdbid|entity|chain(s)|sequence                               <a href = #126389> 98</a>   4e-21
+1Q9C:1:A,B,C,D,E,F,G,H,I|pdbid|entity|chain(s)|sequence               <a href = #23651> 48</a>   6e-06
+3KSY:1:A|pdbid|entity|chain(s)|sequence                               <a href = #89409> 47</a>   1e-05
+</PRE>
+<PRE>
+><a name = 113022></a>4CAY:1:A|pdbid|entity|chain(s)|sequence
+          Length = 111
+
+ Score =  186 bits (471), Expect = 1e-47,   Method: Composition-based stats.
+ Identities = 108/110 (98%), Positives = 110/110 (100%)
+
+Query: 18  VSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 77
+           +SRSQRAGLQFPVGRIHRHLK+RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL
+Sbjct: 1   MSRSQRAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 60
+
+Query: 78  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 127
+           KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT
+Sbjct: 61  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 110
+</PRE>
+
+
+<PRE>
+><a name = 172812></a>5FUG:1:A,D,G,J|pdbid|entity|chain(s)|sequence
+          Length = 110
+
+ Score =  185 bits (469), Expect = 2e-47,   Method: Composition-based stats.
+ Identities = 108/109 (99%), Positives = 109/109 (100%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRSQRAGLQFPVGRIHRHLK+RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK
+Sbjct: 1   SRSQRAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 60
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 127
+           VKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT
+Sbjct: 61  VKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 109
+</PRE>
+
+
+<PRE>
+><a name = 106903></a>3WAA:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 131
+
+ Score =  184 bits (468), Expect = 3e-47,   Method: Composition-based stats.
+ Identities = 111/111 (100%), Positives = 111/111 (100%)
+
+Query: 18  VSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 77
+           VSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL
+Sbjct: 21  VSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 80
+
+Query: 78  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKTA 128
+           KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKTA
+Sbjct: 81  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKTA 131
+</PRE>
+
+
+<PRE>
+><a name = 7080></a>1F66:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  184 bits (466), Expect = 5e-47,   Method: Composition-based stats.
+ Identities = 109/110 (99%), Positives = 110/110 (100%)
+
+Query: 18  VSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 77
+           VSRSQRAGLQFPVGRIHRHLK+RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL
+Sbjct: 18  VSRSQRAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 77
+
+Query: 78  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 127
+           KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT
+Sbjct: 78  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 127
+</PRE>
+
+
+<PRE>
+><a name = 163867></a>5B33:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 131
+
+ Score =  183 bits (464), Expect = 8e-47,   Method: Composition-based stats.
+ Identities = 109/110 (99%), Positives = 110/110 (100%)
+
+Query: 18  VSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 77
+           VSRSQRAGLQFPVGRIHRHLK+RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL
+Sbjct: 21  VSRSQRAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 80
+
+Query: 78  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 127
+           KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT
+Sbjct: 81  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 130
+</PRE>
+
+
+<PRE>
+><a name = 163865></a>5B32:5:G|pdbid|entity|chain(s)|sequence
+          Length = 131
+
+ Score =  183 bits (464), Expect = 8e-47,   Method: Composition-based stats.
+ Identities = 109/110 (99%), Positives = 110/110 (100%)
+
+Query: 18  VSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 77
+           VSRSQRAGLQFPVGRIHRHLK+RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL
+Sbjct: 21  VSRSQRAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 80
+
+Query: 78  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 127
+           KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT
+Sbjct: 81  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 130
+</PRE>
+
+
+<PRE>
+><a name = 163860></a>5B31:5:G|pdbid|entity|chain(s)|sequence
+          Length = 131
+
+ Score =  183 bits (464), Expect = 8e-47,   Method: Composition-based stats.
+ Identities = 109/110 (99%), Positives = 110/110 (100%)
+
+Query: 18  VSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 77
+           VSRSQRAGLQFPVGRIHRHLK+RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL
+Sbjct: 21  VSRSQRAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 80
+
+Query: 78  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 127
+           KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT
+Sbjct: 81  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 130
+</PRE>
+
+
+<PRE>
+><a name = 106900></a>3WA9:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 131
+
+ Score =  183 bits (464), Expect = 8e-47,   Method: Composition-based stats.
+ Identities = 109/110 (99%), Positives = 110/110 (100%)
+
+Query: 18  VSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 77
+           VSRSQRAGLQFPVGRIHRHLK+RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL
+Sbjct: 21  VSRSQRAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 80
+
+Query: 78  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 127
+           KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT
+Sbjct: 81  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 130
+</PRE>
+
+
+<PRE>
+><a name = 211790></a>5Z30:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 131
+
+ Score =  182 bits (463), Expect = 1e-46,   Method: Composition-based stats.
+ Identities = 108/110 (98%), Positives = 109/110 (99%)
+
+Query: 18  VSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 77
+           VSRSQRAGLQFPVGRIHRHLK+RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL
+Sbjct: 21  VSRSQRAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 80
+
+Query: 78  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 127
+           KVK ITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT
+Sbjct: 81  KVKCITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKT 130
+</PRE>
+
+
+<PRE>
+><a name = 131490></a>4NFT:1:A,B,C,D|pdbid|entity|chain(s)|sequence
+          Length = 209
+
+ Score =  171 bits (432), Expect = 4e-43,   Method: Composition-based stats.
+ Identities = 96/97 (98%), Positives = 97/97 (100%)
+
+Query: 18  VSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 77
+           VSRSQRAGLQFPVGRIHRHLK+RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL
+Sbjct: 100 VSRSQRAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDL 159
+
+Query: 78  KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHI 114
+           KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHI
+Sbjct: 160 KVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHI 196
+</PRE>
+
+
+<PRE>
+><a name = 165762></a>5CHL:2:B|pdbid|entity|chain(s)|sequence
+          Length = 193
+
+ Score =  166 bits (419), Expect = 2e-41,   Method: Composition-based stats.
+ Identities = 92/96 (95%), Positives = 94/96 (97%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           S  QRAGLQFPVGRIHRHLK+RTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK
+Sbjct: 92  SSKQRAGLQFPVGRIHRHLKSRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 151
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHI 114
+           VKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPH+
+Sbjct: 152 VKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHL 187
+</PRE>
+
+
+<PRE>
+><a name = 129561></a>4M6B:1:A,D|pdbid|entity|chain(s)|sequence
+          Length = 193
+
+ Score =  135 bits (340), Expect = 2e-32,   Method: Composition-based stats.
+ Identities = 73/92 (79%), Positives = 81/92 (88%)
+
+Query: 23  RAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKVKRI 82
+           RAGLQFPVGRI R+LK   T   RVG+ AA+Y  A+LEYLTAEVLELAGNA+KDLKVKRI
+Sbjct: 102 RAGLQFPVGRIKRYLKRHATGRTRVGSKAAIYLTAVLEYLTAEVLELAGNAAKDLKVKRI 161
+
+Query: 83  TPRHLQLAIRGDEELDSLIKATIAGGGVIPHI 114
+           TPRHLQLAIRGD+ELDSLI+ATIA GGV+PHI
+Sbjct: 162 TPRHLQLAIRGDDELDSLIRATIASGGVLPHI 193
+</PRE>
+
+
+<PRE>
+><a name = 51595></a>2JSS:1:A|pdbid|entity|chain(s)|sequence
+          Length = 192
+
+ Score =  135 bits (339), Expect = 3e-32,   Method: Composition-based stats.
+ Identities = 73/92 (79%), Positives = 81/92 (88%)
+
+Query: 23  RAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKVKRI 82
+           RAGLQFPVGRI R+LK   T   RVG+ AA+Y  A+LEYLTAEVLELAGNA+KDLKVKRI
+Sbjct: 101 RAGLQFPVGRIKRYLKRHATGRTRVGSKAAIYLTAVLEYLTAEVLELAGNAAKDLKVKRI 160
+
+Query: 83  TPRHLQLAIRGDEELDSLIKATIAGGGVIPHI 114
+           TPRHLQLAIRGD+ELDSLI+ATIA GGV+PHI
+Sbjct: 161 TPRHLQLAIRGDDELDSLIRATIASGGVLPHI 192
+</PRE>
+
+
+<PRE>
+><a name = 136470></a>4QLC:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 123
+
+ Score =  115 bits (289), Expect = 2e-26,   Method: Composition-based stats.
+ Identities = 69/109 (63%), Positives = 82/109 (75%), Gaps = 2/109 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGRIHR L+    +  RVGA A VY AA++EYL AEVLELAGNA++D K
+Sbjct: 15  SRSNRAGLQFPVGRIHRLLRKGNYAE-RVGAGAPVYLAAVMEYLAAEVLELAGNAARDNK 73
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLIKA-TIAGGGVIPHIHKSLIGKKGQQK 126
+             RI PRHLQLAIR DEEL+ L+   TIA GGV+P+I   L+ KK ++K
+Sbjct: 74  KTRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLLPKKTEKK 122
+</PRE>
+
+
+<PRE>
+><a name = 56096></a>2NQB:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 123
+
+ Score =  115 bits (289), Expect = 2e-26,   Method: Composition-based stats.
+ Identities = 69/109 (63%), Positives = 82/109 (75%), Gaps = 2/109 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGRIHR L+    +  RVGA A VY AA++EYL AEVLELAGNA++D K
+Sbjct: 15  SRSNRAGLQFPVGRIHRLLRKGNYAE-RVGAGAPVYLAAVMEYLAAEVLELAGNAARDNK 73
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLIKA-TIAGGGVIPHIHKSLIGKKGQQK 126
+             RI PRHLQLAIR DEEL+ L+   TIA GGV+P+I   L+ KK ++K
+Sbjct: 74  KTRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLLPKKTEKK 122
+</PRE>
+
+
+<PRE>
+><a name = 59378></a>2PYO:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 120
+
+ Score =  114 bits (286), Expect = 4e-26,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 80/107 (74%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGRIHR L+    +  RVGA A VY AA++EYL AEVLELAGNA++D K
+Sbjct: 15  SRSNRAGLQFPVGRIHRLLRKGNYAE-RVGAGAPVYLAAVMEYLAAEVLELAGNAARDNK 73
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLIKA-TIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+   TIA GGV+P+I   L+ KK +
+Sbjct: 74  KTRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLLPKKTE 120
+</PRE>
+
+
+<PRE>
+><a name = 160081></a>4Z66:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 107
+
+ Score =  114 bits (284), Expect = 7e-26,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 3   TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 61
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 62  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 106
+</PRE>
+
+
+<PRE>
+><a name = 159327></a>4YS3:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 107
+
+ Score =  114 bits (284), Expect = 7e-26,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 3   TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 61
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 62  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 106
+</PRE>
+
+
+<PRE>
+><a name = 157288></a>4XZQ:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 107
+
+ Score =  114 bits (284), Expect = 7e-26,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 3   TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 61
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 62  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 106
+</PRE>
+
+
+<PRE>
+><a name = 89562></a>3KWQ:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 107
+
+ Score =  114 bits (284), Expect = 7e-26,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 3   TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 61
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 62  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 106
+</PRE>
+
+
+<PRE>
+><a name = 108039></a>3X1U:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  113 bits (282), Expect = 1e-25,   Method: Composition-based stats.
+ Identities = 69/107 (64%), Positives = 83/107 (77%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+    +  R+GA A VY AA+LEYLTAEVLELAGNA++D K
+Sbjct: 16  SRSSRAGLQFPVGRVHRLLRQGNYAQ-RIGAGAPVYLAAVLEYLTAEVLELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RITPRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRITPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 108032></a>3X1T:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  113 bits (282), Expect = 1e-25,   Method: Composition-based stats.
+ Identities = 69/107 (64%), Positives = 83/107 (77%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+    +  R+GA A VY AA+LEYLTAEVLELAGNA++D K
+Sbjct: 16  SRSSRAGLQFPVGRVHRLLRQGNYAQ-RIGAGAPVYLAAVLEYLTAEVLELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RITPRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRITPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 206242></a>5WCU:3:C,G,M,Q|pdbid|entity|chain(s)|sequence
+          Length = 104
+
+ Score =  113 bits (282), Expect = 1e-25,   Method: Composition-based stats.
+ Identities = 67/104 (64%), Positives = 78/104 (75%), Gaps = 2/104 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGRIHR L+    +  RVGA A VY AA++EYL AEVLELAGNA++D K
+Sbjct: 2   SRSNRAGLQFPVGRIHRLLRKGNYAE-RVGAGAPVYLAAVMEYLAAEVLELAGNAARDNK 60
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLIKA-TIAGGGVIPHIHKSLIGK 121
+             RI PRHLQLAIR DEEL+ L+   TIA GGV+P+I   L+ K
+Sbjct: 61  KTRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLLPK 104
+</PRE>
+
+
+<PRE>
+><a name = 155660></a>4X23:5:C,G,M,Q|pdbid|entity|chain(s)|sequence
+          Length = 102
+
+ Score =  113 bits (282), Expect = 1e-25,   Method: Composition-based stats.
+ Identities = 66/102 (64%), Positives = 77/102 (75%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGRIHR L+    +  RVGA A VY AA++EYL AEVLELAGNA++D K
+Sbjct: 1   SRSNRAGLQFPVGRIHRLLRKGNYAE-RVGAGAPVYLAAVMEYLAAEVLELAGNAARDNK 59
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLIKA-TIAGGGVIPHIHKSLI 119
+             RI PRHLQLAIR DEEL+ L+   TIA GGV+P+I   L+
+Sbjct: 60  KTRIIPRHLQLAIRNDEELNKLLSGVTIAQGGVLPNIQAVLL 101
+</PRE>
+
+
+<PRE>
+><a name = 189803></a>5MLU:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 105
+
+ Score =  112 bits (281), Expect = 1e-25,   Method: Composition-based stats.
+ Identities = 65/104 (62%), Positives = 80/104 (76%), Gaps = 2/104 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 3   TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 61
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGK 121
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ K
+Sbjct: 62  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPK 105
+</PRE>
+
+
+<PRE>
+><a name = 173223></a>5G2E:2:C,G,K,O,S,W|pdbid|entity|chain(s)|sequence
+          Length = 107
+
+ Score =  112 bits (281), Expect = 2e-25,   Method: Composition-based stats.
+ Identities = 65/104 (62%), Positives = 80/104 (76%), Gaps = 2/104 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 5   TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 63
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGK 121
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ K
+Sbjct: 64  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPK 107
+</PRE>
+
+
+<PRE>
+><a name = 39203></a>2ARO:1:A,E|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  112 bits (279), Expect = 3e-25,   Method: Composition-based stats.
+ Identities = 70/111 (63%), Positives = 82/111 (73%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  SRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLAIR DEEL+ L+ K TIA GGV+P+I   L+ KK     A
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTDSHKA 126
+</PRE>
+
+
+<PRE>
+><a name = 29175></a>1TZY:1:A,E|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  112 bits (279), Expect = 3e-25,   Method: Composition-based stats.
+ Identities = 70/111 (63%), Positives = 82/111 (73%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  SRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLAIR DEEL+ L+ K TIA GGV+P+I   L+ KK     A
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTDSHKA 126
+</PRE>
+
+
+<PRE>
+><a name = 10863></a>1HQ3:1:A,E|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  112 bits (279), Expect = 3e-25,   Method: Composition-based stats.
+ Identities = 70/111 (63%), Positives = 82/111 (73%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  SRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLAIR DEEL+ L+ K TIA GGV+P+I   L+ KK     A
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTDSHKA 126
+</PRE>
+
+
+<PRE>
+><a name = 6518></a>1EQZ:2:A,E|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  112 bits (279), Expect = 3e-25,   Method: Composition-based stats.
+ Identities = 70/111 (63%), Positives = 82/111 (73%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  SRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLAIR DEEL+ L+ K TIA GGV+P+I   L+ KK     A
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTDSHKA 126
+</PRE>
+
+
+<PRE>
+><a name = 183001></a>5KGF:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  111 bits (278), Expect = 3e-25,   Method: Composition-based stats.
+ Identities = 70/107 (65%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+ R     RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  SRSSRAGLQFPVGRVHRLLR-RGNYAERVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ K TIA GGV+P+I   L+ KK +
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTE 122
+</PRE>
+
+
+<PRE>
+><a name = 224419></a>6GEN:4:E,F|pdbid|entity|chain(s)|sequence
+          Length = 132
+
+ Score =  111 bits (278), Expect = 3e-25,   Method: Composition-based stats.
+ Identities = 64/110 (58%), Positives = 82/110 (74%), Gaps = 2/110 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS +AGL FPVGR+HR L+ R     R+G+ A VY  A+LEYL AE+LELAGNA++D K
+Sbjct: 18  SRSAKAGLTFPVGRVHRLLR-RGNYAQRIGSGAPVYLTAVLEYLAAEILELAGNAARDNK 76
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKT 127
+             RI PRHLQLAIR D+EL+ L+   TIA GGV+P+IH++L+ KK  + T
+Sbjct: 77  KTRIIPRHLQLAIRNDDELNKLLGNVTIAQGGVLPNIHQNLLPKKSAKAT 126
+</PRE>
+
+
+<PRE>
+><a name = 224416></a>6GEJ:4:E,F|pdbid|entity|chain(s)|sequence
+          Length = 132
+
+ Score =  111 bits (278), Expect = 3e-25,   Method: Composition-based stats.
+ Identities = 64/110 (58%), Positives = 82/110 (74%), Gaps = 2/110 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS +AGL FPVGR+HR L+ R     R+G+ A VY  A+LEYL AE+LELAGNA++D K
+Sbjct: 18  SRSAKAGLTFPVGRVHRLLR-RGNYAQRIGSGAPVYLTAVLEYLAAEILELAGNAARDNK 76
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKT 127
+             RI PRHLQLAIR D+EL+ L+   TIA GGV+P+IH++L+ KK  + T
+Sbjct: 77  KTRIIPRHLQLAIRNDDELNKLLGNVTIAQGGVLPNIHQNLLPKKSAKAT 126
+</PRE>
+
+
+<PRE>
+><a name = 154108></a>4WNN:1:A,C,E,G|pdbid|entity|chain(s)|sequence
+          Length = 132
+
+ Score =  111 bits (278), Expect = 3e-25,   Method: Composition-based stats.
+ Identities = 64/110 (58%), Positives = 82/110 (74%), Gaps = 2/110 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS +AGL FPVGR+HR L+ R     R+G+ A VY  A+LEYL AE+LELAGNA++D K
+Sbjct: 18  SRSAKAGLTFPVGRVHRLLR-RGNYAQRIGSGAPVYLTAVLEYLAAEILELAGNAARDNK 76
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKT 127
+             RI PRHLQLAIR D+EL+ L+   TIA GGV+P+IH++L+ KK  + T
+Sbjct: 77  KTRIIPRHLQLAIRNDDELNKLLGNVTIAQGGVLPNIHQNLLPKKSAKAT 126
+</PRE>
+
+
+<PRE>
+><a name = 73742></a>3C9K:1:A,E|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  111 bits (278), Expect = 3e-25,   Method: Composition-based stats.
+ Identities = 70/111 (63%), Positives = 82/111 (73%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  SRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLAIR DEEL+ L+ K TIA GGV+P+I   L+ KK     A
+Sbjct: 75  KTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTDSHKA 125
+</PRE>
+
+
+<PRE>
+><a name = 48506></a>2HIO:1:A|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  111 bits (278), Expect = 3e-25,   Method: Composition-based stats.
+ Identities = 70/111 (63%), Positives = 82/111 (73%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  SRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLAIR DEEL+ L+ K TIA GGV+P+I   L+ KK     A
+Sbjct: 75  KTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTDSHKA 125
+</PRE>
+
+
+<PRE>
+><a name = 1080></a>1AOI:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 116
+
+ Score =  111 bits (278), Expect = 4e-25,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 13  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 71
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 72  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 116
+</PRE>
+
+
+<PRE>
+><a name = 164519></a>5BT1:2:C|pdbid|entity|chain(s)|sequence
+          Length = 143
+
+ Score =  111 bits (278), Expect = 4e-25,   Method: Composition-based stats.
+ Identities = 64/110 (58%), Positives = 82/110 (74%), Gaps = 2/110 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS +AGL FPVGR+HR L+ R     R+G+ A VY  A+LEYL AE+LELAGNA++D K
+Sbjct: 29  SRSAKAGLTFPVGRVHRLLR-RGNYAQRIGSGAPVYLTAVLEYLAAEILELAGNAARDNK 87
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKT 127
+             RI PRHLQLAIR D+EL+ L+   TIA GGV+P+IH++L+ KK  + T
+Sbjct: 88  KTRIIPRHLQLAIRNDDELNKLLGNVTIAQGGVLPNIHQNLLPKKSAKAT 137
+</PRE>
+
+
+<PRE>
+><a name = 11916></a>1ID3:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 131
+
+ Score =  111 bits (278), Expect = 4e-25,   Method: Composition-based stats.
+ Identities = 64/110 (58%), Positives = 82/110 (74%), Gaps = 2/110 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS +AGL FPVGR+HR L+ R     R+G+ A VY  A+LEYL AE+LELAGNA++D K
+Sbjct: 17  SRSAKAGLTFPVGRVHRLLR-RGNYAQRIGSGAPVYLTAVLEYLAAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKT 127
+             RI PRHLQLAIR D+EL+ L+   TIA GGV+P+IH++L+ KK  + T
+Sbjct: 76  KTRIIPRHLQLAIRNDDELNKLLGNVTIAQGGVLPNIHQNLLPKKSAKAT 125
+</PRE>
+
+
+<PRE>
+><a name = 106843></a>3W96:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 124
+
+ Score =  111 bits (277), Expect = 4e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 11  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 69
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 70  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 116
+</PRE>
+
+
+<PRE>
+><a name = 222576></a>6FQ8:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 110
+
+ Score =  111 bits (277), Expect = 4e-25,   Method: Composition-based stats.
+ Identities = 65/104 (62%), Positives = 80/104 (76%), Gaps = 2/104 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 8   TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 66
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGK 121
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ K
+Sbjct: 67  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPK 110
+</PRE>
+
+
+<PRE>
+><a name = 222572></a>6FQ6:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 110
+
+ Score =  111 bits (277), Expect = 4e-25,   Method: Composition-based stats.
+ Identities = 65/104 (62%), Positives = 80/104 (76%), Gaps = 2/104 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 8   TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 66
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGK 121
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ K
+Sbjct: 67  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPK 110
+</PRE>
+
+
+<PRE>
+><a name = 222565></a>6FQ5:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 110
+
+ Score =  111 bits (277), Expect = 4e-25,   Method: Composition-based stats.
+ Identities = 65/104 (62%), Positives = 80/104 (76%), Gaps = 2/104 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 8   TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 66
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGK 121
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ K
+Sbjct: 67  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPK 110
+</PRE>
+
+
+<PRE>
+><a name = 174474></a>5GT3:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  111 bits (277), Expect = 5e-25,   Method: Composition-based stats.
+ Identities = 69/107 (64%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ K TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 92323></a>3MNN:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 119
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 119
+</PRE>
+
+
+<PRE>
+><a name = 92007></a>3MGS:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 119
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 119
+</PRE>
+
+
+<PRE>
+><a name = 92005></a>3MGR:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 119
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 119
+</PRE>
+
+
+<PRE>
+><a name = 91999></a>3MGQ:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 119
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 119
+</PRE>
+
+
+<PRE>
+><a name = 91996></a>3MGP:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 119
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 119
+</PRE>
+
+
+<PRE>
+><a name = 91179></a>3LZ1:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 119
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 119
+</PRE>
+
+
+<PRE>
+><a name = 91172></a>3LZ0:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 119
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 119
+</PRE>
+
+
+<PRE>
+><a name = 89494></a>3KUY:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 119
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 119
+</PRE>
+
+
+<PRE>
+><a name = 56538></a>2NZD:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 119
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 119
+</PRE>
+
+
+<PRE>
+><a name = 26308></a>1S32:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 119
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 66/105 (62%), Positives = 81/105 (77%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKK 122
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKK 119
+</PRE>
+
+
+<PRE>
+><a name = 45394></a>2F8N:7:K|pdbid|entity|chain(s)|sequence
+          Length = 149
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 36  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 94
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 95  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 141
+</PRE>
+
+
+<PRE>
+><a name = 62099></a>2RVQ:1:C|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (276), Expect = 6e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 226942></a>6HTS:7:K,O|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (275), Expect = 8e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 122
+</PRE>
+
+
+<PRE>
+><a name = 215888></a>6BUZ:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (275), Expect = 8e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 122
+</PRE>
+
+
+<PRE>
+><a name = 208862></a>5XF5:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (275), Expect = 8e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 122
+</PRE>
+
+
+<PRE>
+><a name = 208858></a>5XF4:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (275), Expect = 8e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 122
+</PRE>
+
+
+<PRE>
+><a name = 208854></a>5XF3:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (275), Expect = 8e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 122
+</PRE>
+
+
+<PRE>
+><a name = 42208></a>2CV5:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (275), Expect = 8e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 122
+</PRE>
+
+
+<PRE>
+><a name = 10564></a>1HIO:1:A|pdbid|entity|chain(s)|sequence
+          Length = 95
+
+ Score =  110 bits (275), Expect = 8e-25,   Method: Composition-based stats.
+ Identities = 65/95 (68%), Positives = 75/95 (78%), Gaps = 2/95 (2%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 2   SRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 60
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIP 112
+             RI PRHLQLAIR DEEL+ L+ K TIA GGV+P
+Sbjct: 61  KTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLP 95
+</PRE>
+
+
+<PRE>
+><a name = 216340></a>6C0W:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (275), Expect = 9e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  SRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 76  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 122
+</PRE>
+
+
+<PRE>
+><a name = 174468></a>5GT0:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (275), Expect = 9e-25,   Method: Composition-based stats.
+ Identities = 69/107 (64%), Positives = 81/107 (75%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGRIHR L+    +  R+GA A VY AA+LEYLTAE+LELAGNAS+D K
+Sbjct: 16  SRSSRAGLQFPVGRIHRLLRKGNYAE-RIGAGAPVYLAAVLEYLTAEILELAGNASRDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLIKA-TIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+   TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAIRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 174454></a>5GSU:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (275), Expect = 9e-25,   Method: Composition-based stats.
+ Identities = 69/107 (64%), Positives = 81/107 (75%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGRIHR L+    +  R+GA A VY AA+LEYLTAE+LELAGNAS+D K
+Sbjct: 16  SRSSRAGLQFPVGRIHRLLRKGNYAE-RIGAGAPVYLAAVLEYLTAEILELAGNASRDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLIKA-TIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+   TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAIRNDEELNKLLGGVTIAQGGVLPNIQAVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 126942></a>4KUD:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 132
+
+ Score =  110 bits (274), Expect = 9e-25,   Method: Composition-based stats.
+ Identities = 63/108 (58%), Positives = 81/108 (75%), Gaps = 2/108 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS +AGL FPVGR+HR L+ R     R+G+ A VY  A+LEYL AE+LELAGNA++D K
+Sbjct: 18  SRSAKAGLTFPVGRVHRLLR-RGNYAQRIGSGAPVYLTAVLEYLAAEILELAGNAARDNK 76
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQ 125
+             RI PRHLQLAIR D+EL+ L+   TIA GGV+P+IH++L+ KK  +
+Sbjct: 77  KTRIIPRHLQLAIRNDDELNKLLGNVTIAQGGVLPNIHQNLLPKKSAK 124
+</PRE>
+
+
+<PRE>
+><a name = 108042></a>3X1V:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  110 bits (274), Expect = 9e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 108028></a>3X1S:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  110 bits (274), Expect = 9e-25,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 124921></a>4JJN:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 131
+
+ Score =  110 bits (274), Expect = 9e-25,   Method: Composition-based stats.
+ Identities = 63/108 (58%), Positives = 81/108 (75%), Gaps = 2/108 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS +AGL FPVGR+HR L+ R     R+G+ A VY  A+LEYL AE+LELAGNA++D K
+Sbjct: 17  SRSAKAGLTFPVGRVHRLLR-RGNYAQRIGSGAPVYLTAVLEYLAAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQ 125
+             RI PRHLQLAIR D+EL+ L+   TIA GGV+P+IH++L+ KK  +
+Sbjct: 76  KTRIIPRHLQLAIRNDDELNKLLGNVTIAQGGVLPNIHQNLLPKKSAK 123
+</PRE>
+
+
+<PRE>
+><a name = 222404></a>6FML:11:O,S|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ K TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAIRNDEELNKLLGKVTIAQGGVLPNIQAVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 195194></a>5ONW:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGCYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 195065></a>5OMX:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGCYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 226855></a>6HKT:3:0,2,C,G,M,Q,W,c,g,m,q,w|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 213101></a>6A5V:18:c,g|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 213081></a>6A5U:18:c,g|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 213060></a>6A5T:18:c,g|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 213046></a>6A5R:18:c,g|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 213042></a>6A5P:18:c,g|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 213023></a>6A5O:18:c,g|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 212995></a>6A5L:18:c,g|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 210345></a>5Y0D:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 210341></a>5Y0C:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 209256></a>5XM1:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 209253></a>5XM0:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 208427></a>5X7X:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 181272></a>5JRG:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 174763></a>5GXQ:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 174485></a>5GTC:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 174437></a>5GSE:3:C,G,M|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 166108></a>5CPK:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 166106></a>5CPJ:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 166102></a>5CPI:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163922></a>5B40:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163861></a>5B32:3:C|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163856></a>5B31:3:C|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163835></a>5B2J:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163831></a>5B2I:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163815></a>5B24:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163799></a>5B1M:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163793></a>5B1L:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163743></a>5B0Z:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163741></a>5B0Y:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163623></a>5AY8:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163473></a>5AVC:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163471></a>5AVB:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163466></a>5AV9:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163462></a>5AV8:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163456></a>5AV6:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 163453></a>5AV5:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 160060></a>4Z5T:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 159032></a>4YM6:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 159026></a>4YM5:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 107671></a>3WTP:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 107316></a>3WKJ:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 106854></a>3W99:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 106850></a>3W98:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 106848></a>3W97:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71856></a>3AZN:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71851></a>3AZM:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71847></a>3AZL:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71843></a>3AZK:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71838></a>3AZJ:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71836></a>3AZI:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71829></a>3AZH:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71825></a>3AZG:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71824></a>3AZF:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71819></a>3AZE:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71799></a>3AYW:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71637></a>3AV2:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71632></a>3AV1:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 71316></a>3AN2:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 70996></a>3AFA:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 70559></a>3A6N:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 133
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 68/107 (63%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 20  TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 78
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLAIR DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 79  KTRIIPRHLQLAIRNDEELNKLLGRVTIAQGGVLPNIQAVLLPKKTE 125
+</PRE>
+
+
+<PRE>
+><a name = 208063></a>5X0X:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 76  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 126
+</PRE>
+
+
+<PRE>
+><a name = 195953></a>5OY7:4:C,G,K,O,S,W,a,e|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 76  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 126
+</PRE>
+
+
+<PRE>
+><a name = 195919></a>5OXV:3:C,G,M,Q|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 76  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 126
+</PRE>
+
+
+<PRE>
+><a name = 194269></a>5O9G:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 76  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 126
+</PRE>
+
+
+<PRE>
+><a name = 169230></a>5E5A:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 76  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 126
+</PRE>
+
+
+<PRE>
+><a name = 161293></a>4ZUX:3:C,G,M,Q|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 76  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 126
+</PRE>
+
+
+<PRE>
+><a name = 127922></a>4LD9:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 76  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 126
+</PRE>
+
+
+<PRE>
+><a name = 126348></a>4KGC:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 76  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 126
+</PRE>
+
+
+<PRE>
+><a name = 73411></a>3C1C:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 73405></a>3C1B:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  110 bits (274), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 223376></a>6G0L:5:G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 76  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 122
+</PRE>
+
+
+<PRE>
+><a name = 222969></a>6FTX:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 76  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 122
+</PRE>
+
+
+<PRE>
+><a name = 220896></a>6ESI:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 220892></a>6ESH:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 220889></a>6ESG:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 220886></a>6ESF:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 208070></a>5X0Y:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 195170></a>5ONG:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 192701></a>5NL0:3:C,G,M|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 176367></a>5HQ2:3:G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 171318></a>5F99:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 155109></a>4WU9:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 155105></a>4WU8:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 138165></a>4R8P:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 104765></a>3UTB:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 104762></a>3UTA:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 104758></a>3UT9:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 103257></a>3TU4:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 99440></a>3REL:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 99435></a>3REK:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 99431></a>3REJ:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 99427></a>3REI:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 99424></a>3REH:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 92664></a>3MVD:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 90536></a>3LJA:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 89592></a>3KXB:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 45818></a>2FJ7:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 37220></a>1ZBB:5:C,G,c,g|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/111 (59%), Positives = 83/111 (74%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 21991></a>1P3P:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 21988></a>1P3O:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 21984></a>1P3M:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 21977></a>1P3L:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 21974></a>1P3K:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 21970></a>1P3I:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 21965></a>1P3G:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 21960></a>1P3F:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 21955></a>1P3B:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 21948></a>1P3A:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 21941></a>1P34:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 17243></a>1M1A:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 17236></a>1M19:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 17234></a>1M18:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (273), Expect = 1e-24,   Method: Composition-based stats.
+ Identities = 66/107 (61%), Positives = 82/107 (76%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTE 121
+</PRE>
+
+
+<PRE>
+><a name = 37561></a>1ZLA:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 129
+
+ Score =  109 bits (272), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 65/111 (58%), Positives = 81/111 (72%), Gaps = 2/111 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGN  +D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNWERDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQQKTA 128
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+ KK +   +
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLLPKKTESSKS 125
+</PRE>
+
+
+<PRE>
+><a name = 208865></a>5XF6:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 168395></a>5DNN:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 168389></a>5DNM:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 166083></a>5CP6:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 157088></a>4XUJ:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 124276></a>4J8X:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 124272></a>4J8W:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 124268></a>4J8V:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 124264></a>4J8U:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 94555></a>3O62:3:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 90352></a>3LEL:3:C,G,M,Q|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 72098></a>3B6G:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 72096></a>3B6F:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 15771></a>1KX5:5:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 15767></a>1KX4:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 15763></a>1KX3:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 128
+
+ Score =  108 bits (271), Expect = 2e-24,   Method: Composition-based stats.
+ Identities = 64/102 (62%), Positives = 79/102 (77%), Gaps = 2/102 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 16  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 74
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLI 119
+             RI PRHLQLA+R DEEL+ L+ + TIA GGV+P+I   L+
+Sbjct: 75  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGGVLPNIQSVLL 116
+</PRE>
+
+
+<PRE>
+><a name = 223378></a>6G0L:3:C|pdbid|entity|chain(s)|sequence
+          Length = 130
+
+ Score =  106 bits (265), Expect = 1e-23,   Method: Composition-based stats.
+ Identities = 65/107 (60%), Positives = 81/107 (75%), Gaps = 2/107 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 17  TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 75
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGGGVIPHIHKSLIGKKGQ 124
+             RI PRHLQLA+R DEEL+ L+ + TIA G V+P+I   L+ KK +
+Sbjct: 76  KTRIIPRHLQLAVRNDEELNKLLGRVTIAQGRVLPNIQSVLLPKKTE 122
+</PRE>
+
+
+<PRE>
+><a name = 203852></a>5VEY:1:A|pdbid|entity|chain(s)|sequence
+          Length = 194
+
+ Score =  103 bits (256), Expect = 1e-22,   Method: Composition-based stats.
+ Identities = 61/91 (67%), Positives = 71/91 (78%), Gaps = 2/91 (2%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    S  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 105 TRSSRAGLQFPVGRVHRLLRKGNYSE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 163
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGG 108
+             RI PRHLQLAIR DEEL+ L+ + TIA G
+Sbjct: 164 KTRIIPRHLQLAIRNDEELNKLLGRVTIAQG 194
+</PRE>
+
+
+<PRE>
+><a name = 66936></a>2XQL:1:A,C,E,G,I|pdbid|entity|chain(s)|sequence
+          Length = 91
+
+ Score =  103 bits (256), Expect = 1e-22,   Method: Composition-based stats.
+ Identities = 62/91 (68%), Positives = 71/91 (78%), Gaps = 2/91 (2%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 2   SRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 60
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI-KATIAGG 108
+             RI PRHLQLAIR DEEL+ L+ K TIA G
+Sbjct: 61  KTRIIPRHLQLAIRNDEELNKLLGKVTIAQG 91
+</PRE>
+
+
+<PRE>
+><a name = 45395></a>2F8N:6:G|pdbid|entity|chain(s)|sequence
+          Length = 120
+
+ Score =  101 bits (251), Expect = 4e-22,   Method: Composition-based stats.
+ Identities = 59/105 (56%), Positives = 78/105 (74%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS +AG+ FPVGR+ R++K     + R+G  A VY AA+LEYLTAE+LELA NA++D K
+Sbjct: 14  SRSAKAGVIFPVGRMLRYIKKGHPKY-RIGVGAPVYMAAVLEYLTAEILELAVNAARDNK 72
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLIKA-TIAGGGVIPHIHKSLIGKK 122
+             R+TPRH+ LA+  DEEL+ L+K  TIA GGV+P+IH  L+ KK
+Sbjct: 73  KGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK 117
+</PRE>
+
+
+<PRE>
+><a name = 29307></a>1U35:4:C,G|pdbid|entity|chain(s)|sequence
+          Length = 120
+
+ Score =  101 bits (251), Expect = 4e-22,   Method: Composition-based stats.
+ Identities = 59/105 (56%), Positives = 78/105 (74%), Gaps = 2/105 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           SRS +AG+ FPVGR+ R++K     + R+G  A VY AA+LEYLTAE+LELA NA++D K
+Sbjct: 14  SRSAKAGVIFPVGRMLRYIKKGHPKY-RIGVGAPVYMAAVLEYLTAEILELAVNAARDNK 72
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLIKA-TIAGGGVIPHIHKSLIGKK 122
+             R+TPRH+ LA+  DEEL+ L+K  TIA GGV+P+IH  L+ KK
+Sbjct: 73  KGRVTPRHILLAVANDEELNQLLKGVTIASGGVLPNIHPELLAKK 117
+</PRE>
+
+
+<PRE>
+><a name = 126389></a>4KHA:2:B|pdbid|entity|chain(s)|sequence
+          Length = 92
+
+ Score = 97.8 bits (242), Expect = 4e-21,   Method: Composition-based stats.
+ Identities = 55/83 (66%), Positives = 66/83 (79%), Gaps = 1/83 (1%)
+
+Query: 19  SRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLK 78
+           +RS RAGLQFPVGR+HR L+    +  RVGA A VY AA+LEYLTAE+LELAGNA++D K
+Sbjct: 6   TRSSRAGLQFPVGRVHRLLRKGNYAE-RVGAGAPVYLAAVLEYLTAEILELAGNAARDNK 64
+
+Query: 79  VKRITPRHLQLAIRGDEELDSLI 101
+             RI PRHLQLA+R DEEL+ L+
+Sbjct: 65  KTRIIPRHLQLAVRNDEELNKLL 87
+</PRE>
+
+
+<PRE>
+><a name = 23651></a>1Q9C:1:A,B,C,D,E,F,G,H,I|pdbid|entity|chain(s)|sequence
+          Length = 191
+
+ Score = 47.8 bits (112), Expect = 6e-06,   Method: Composition-based stats.
+ Identities = 26/78 (33%), Positives = 47/78 (60%), Gaps = 2/78 (2%)
+
+Query: 20  RSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKV 79
+           R +R  L  PV +IH  LK       ++    +VY  A+LEY++A++L+LAGN  ++++ 
+Sbjct: 97  RKRRNPLSLPVEKIHPLLKEVLGY--KIDHQVSVYIVAVLEYISADILKLAGNYVRNIRH 154
+
+Query: 80  KRITPRHLQLAIRGDEEL 97
+             IT + +++A+  D+ L
+Sbjct: 155 YEITKQDIKVAMCADKVL 172
+</PRE>
+
+
+<PRE>
+><a name = 89409></a>3KSY:1:A|pdbid|entity|chain(s)|sequence
+          Length = 1049
+
+ Score = 46.6 bits (109), Expect = 1e-05,   Method: Composition-based stats.
+ Identities = 25/78 (32%), Positives = 46/78 (58%), Gaps = 2/78 (2%)
+
+Query: 20  RSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKV 79
+           R +R  L  PV +IH  LK       ++    +VY  A+LEY++A++L+L GN  ++++ 
+Sbjct: 97  RKRRNPLSLPVEKIHPLLKEVLGY--KIDHQVSVYIVAVLEYISADILKLVGNYVRNIRH 154
+
+Query: 80  KRITPRHLQLAIRGDEEL 97
+             IT + +++A+  D+ L
+Sbjct: 155 YEITKQDIKVAMCADKVL 172
+</PRE>
+
+
+<PRE>
+  Database: pdb_polypeptide
+    Posted date:  Nov 9, 2018  6:28 PM
+  Number of letters in database: 56,825,294
+  Number of sequences in database:  227,558
+  
+Lambda     K      H
+   0.318    0.133    0.366 
+
+Gapped
+Lambda     K      H
+   0.267   0.0410    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 227558
+Number of Hits to DB: 11,418,195
+Number of extensions: 377353
+Number of successful extensions: 1540
+Number of sequences better than  1.0: 211
+Number of HSP's gapped: 1342
+Number of HSP's successfully gapped: 211
+Length of query: 128
+Length of database: 56,825,294
+Length adjustment: 89
+Effective length of query: 39
+Effective length of database: 36,572,632
+Effective search space: 1426332648
+Effective search space used: 1426332648
+Neighboring words threshold: 11
+Window for multiple hits: 40
+X1: 16 ( 7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (21.7 bits)
+S2: 67 (30.4 bits)
+</PRE>
+</BODY>
+</HTML>
