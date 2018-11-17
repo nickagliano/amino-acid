@@ -14,7 +14,7 @@ public class GetCustomReport
    
    public static void doMagic(String[] idArr){
 
-      String qstr = "?pdbids="+ printIds(idArr) + "&customReportColumns=structureId,classification,sequence,kabschSander&format=csv&service=wsfile";
+      String qstr = "?pdbids="+ printIds(idArr) + "&customReportColumns=structureId,macromoleculeType,classification,sequence,kabschSander&format=csv&service=wsfile";
       
       try {
          getResult(qstr);       

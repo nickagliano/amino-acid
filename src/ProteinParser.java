@@ -46,12 +46,10 @@ public class ProteinParser implements IPeptideProperties {
         String sequence = parsedLine[0];
         
         sequence = "MAGGKAGKDSGKAKAKAVSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKTA";
-        //blast query
-        PostBLASTQuery.doMagic(sequence); //submit blast query for a specific sequence in the sequences_training.csv file
-       
-        String[] idArr = BlastResultReader.getIds(10); //reads first 10 results from blast (the 10 most similar proteins)
         
-        GetCustomReport.doMagic(idArr); //overwrites the previous blastresult.html file with csv of most similar proteins
+        PostBLASTQuery.doMagic(sequence); //submit blast query for a specific sequence in the sequences_training.csv file
+        String[] idArr = BlastResultReader.getIds(10); //reads first 10 results from blast (the 10 most similar proteins)
+        GetCustomReport.doMagic(idArr); //writes to blastresult.csv file with table of most similar proteins
         
         /*
         while ((line = br.readLine()) != null) {
