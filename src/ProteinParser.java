@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Map;
 
@@ -13,7 +12,6 @@ import org.biojava.nbio.aaproperties.*;
 import org.biojava.nbio.aaproperties.xml.AminoAcidCompositionTable;
 import org.biojava.nbio.core.sequence.ProteinSequence;
 import org.biojava.nbio.core.sequence.compound.AminoAcidCompound;
-import org.biojava.nbio.structure.StructureException;
 
 public class ProteinParser implements IPeptideProperties {
 
@@ -32,6 +30,9 @@ public class ProteinParser implements IPeptideProperties {
         sb.append(',');
         sb.append("Aliphatic index");
         sb.append(',');
+        sb.append("DNA Hits");
+        sb.append(',');
+        sb.append("RNA Hits");
         
         sb.append('\n');
         
@@ -45,16 +46,12 @@ public class ProteinParser implements IPeptideProperties {
         String[] parsedLine = line.split(cvsSplitBy);
         String sequence = parsedLine[0];
         
-        sequence = "MAGGKAGKDSGKAKAKAVSRSQRAGLQFPVGRIHRHLKTRTTSHGRVGATAAVYSAAILEYLTAEVLELAGNASKDLKVKRITPRHLQLAIRGDEELDSLIKATIAGGGVIPHIHKSLIGKKGQQKTA";
+        int[] wordHits;
         
-        PostBLASTQuery.doMagic(sequence); //submit blast query for a specific sequence in the sequences_training.csv file
-        String[] idArr = BlastResultReader.getIds(10); //reads first 10 results from blast (the 10 most similar proteins)
-        GetCustomReport.doMagic(idArr); //writes to blastresult.csv file with table of most similar proteins
-        
-        /*
+        int progress = 0;
         while ((line = br.readLine()) != null) {
-            String[] parsedLine = line.split(cvsSplitBy);
-            String sequence = parsedLine[0];
+            parsedLine = line.split(cvsSplitBy);
+            sequence = parsedLine[0];
             
             sb.append(PeptideProperties.getMolecularWeight(sequence));
             sb.append(',');
@@ -67,19 +64,22 @@ public class ProteinParser implements IPeptideProperties {
             sb.append(PeptideProperties.getApliphaticIndex(sequence));
             sb.append(',');
             
-           
+            String[] idArr = PostBLASTQuery.doMagic(sequence); //reads first 10 results from blast (the 10 most similar proteins)
+            wordHits = GetCustomReport.doMagic(idArr); //gets number of times the words "DNA" and "RNA" are found in the descriptions similar protein
+            
+            sb.append(wordHits[0]); //DNA occurances
+            sb.append(',');
+            sb.append(wordHits[1]); //RNA occurances
             sb.append('\n');
+            progress++;
+            System.out.println(progress + " out of ~8795 complete. AKA " + ((double)progress/8795.0)*100 + "% done. :)");
         }
-        */
         
         br.close();
         
         pw.write(sb.toString());
         pw.close();
         System.out.println("done!");
-		
-
-       
 
 	} //end main method
 	
