@@ -41,7 +41,7 @@ public class ProteinParser implements IPeptideProperties {
         String line = "";
         String cvsSplitBy = ",";
         
-        br = new BufferedReader(new FileReader("sequences_training.csv"));
+        br = new BufferedReader(new FileReader("sequences_test.csv"));
        
         String[] parsedLine = line.split(cvsSplitBy);
         String sequence = parsedLine[0];
@@ -74,6 +74,7 @@ public class ProteinParser implements IPeptideProperties {
             progress++;
             System.out.println(progress + " out of ~8795 complete. AKA " + ((double)progress/8795.0)*100 + "% done. :)");
         }
+   
         
         br.close();
         
