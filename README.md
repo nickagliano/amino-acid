@@ -1,3 +1,6 @@
+# Preface
+This was for a college course my sophomore year of college. It ended up winning 1st place in the class!
+
 # Overview
 A Java x Maven project with the purpose of extracting features from amino acid sequences.
 
